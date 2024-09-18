@@ -1,0 +1,24 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo .icon {
+  font-size: 40px;
+  color: var(--primary-accent);
+}
+
+@media (max-width: 1000px) {
+  .heading {
+    font-size:medium;
+  }
+}
+
+@media (min-width: 1045px) and (max-width: 1400px) {
+  .heading {
+     font-size: small;
+  }
+}
+
+
+
