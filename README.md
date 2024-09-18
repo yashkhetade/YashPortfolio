@@ -10,4 +10,8 @@ React Slick: For implementing a responsive and customizable carousel.
 Slick Carousel: For additional carousel functionalities and styling.
 The portfolio highlights my proficiency in frontend development, showcasing my ability to create visually appealing and user-friendly web applications. It serves as a testament to my skills and provides potential employers with an intuitive way to view my work and capabilities.
 
+![image](https://github.com/user-attachments/assets/abc390b8-c4f8-4746-b588-31df0e73f99a)
 
+
+![image](https://github.com/user-attachments/assets/b522314d-9b41-4c0b-85ad-e7d2a3e9619d)
+![image](https://github.com/user-attachments/assets/a656022c-ed81-423c-ad62-3d3e3ec84bbf)
